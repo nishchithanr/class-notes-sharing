@@ -1,0 +1,58 @@
+.sidebar {
+  margin-top: 70px;
+  background-color: #dfdfdf;
+  width: 15%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.sidebar li {
+  list-style-type: none;
+
+  padding: 15px 0px 10px 0px;
+
+}
+
+.content {
+  padding: 100px 100px 0px 300px;
+}
+
+.custom-list {
+  margin-top: 25px;
+  padding: 20px 50px;
+  background-color: #f3f9fb;
+  border-radius: 8px;
+  /box-shadow: 1px;/
+}
+
+.calendar {
+  padding: 2px 100px;
+}
+
+.date_column {
+  background-color: #343A40;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebar-menu {
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar-menu:hover {
+  text-decoration: none;
+
+}
+
+.tab-top-space{
+  margin-top:25px;
+  padding:0px 300px;
+}
+
+.vd-icon{
+  font-size: 28px;
+}
